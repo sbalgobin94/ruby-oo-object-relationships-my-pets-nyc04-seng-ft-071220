@@ -16,8 +16,5 @@ class Cat
     @@all
   end
 
-  def cats
-    Cat.all
-  end
   
 end
